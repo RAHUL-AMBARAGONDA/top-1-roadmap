@@ -110,4 +110,118 @@ Let’s break it down:
 
 📣 Companies are **hunting** for this combo. They don’t find it often.
 
+Absolutely, Rahul. Below is a **tailored DevSecOps + Kubernetes Security resume** optimized for **global remote jobs** at top-tier tech, AI, and Web3 companies. It positions you as a **Top 1% Security-Minded Platform Engineer** — with the right keywords, structure, and clarity for ATS systems and real hiring managers.
+
+---
+
+## ✅ RAHUL AMBARAGONDA
+
+📍 Pittsburgh, PA (Open to Global Remote)
+📞 +1 (678) 249-9862 | 📧 [rahulambaragonda0@gmail.com](mailto:rahulambaragonda0@gmail.com)
+🌐 [www.azuresimplified.com](http://www.azuresimplified.com) | GitHub: [github.com/rahul-ambaragonda](https://github.com/rahul-ambaragonda) | Hashnode: [@rahulambaragonda](https://rahulambaragonda.hashnode.dev)
+
+---
+
+## 🔹 SUMMARY
+
+Cloud-native DevSecOps & Kubernetes Security Engineer with 4+ years of experience securing infrastructure at scale across 250+ microservices. Specialized in securing EKS clusters, hardening Linux nodes, embedding security into CI/CD pipelines, and implementing runtime threat detection using Falco and eBPF. Actively contributing open-source security tools and building SBOM-driven, Zero Trust compliant systems for high-stakes environments. Passionate about combining DevSecOps, AI-driven observability, and platform security to build resilient systems.
+
+---
+
+## 🔐 CORE SKILLS
+
+**Cloud & Containers**: AWS (EKS, IAM, KMS, S3, ALB), Azure (AKS), Docker, Kubernetes (EKS/GKE)
+**Security & Compliance**: RBAC, Kyverno, OPA/Gatekeeper, Falco, AppArmor, Seccomp, auditd, CIS Benchmarks
+**CI/CD Security**: GitHub Actions, Trivy, Syft/Grype, SBOM, Cosign, Checkov, tfsec, OIDC-based workflows
+**Infra as Code**: Terraform, Ansible, External Secrets, HashiCorp Vault
+**Monitoring**: Prometheus, Grafana, Loki, eBPF, Cilium Hubble
+**Scripting & Automation**: Python, Bash, GitOps, Open Policy Agent (Rego)
+**Compliance & Risk**: NIST 800-53, CIS K8s Benchmark, Zero Trust Principles
+**Soft Skills**: Remote collaboration, documentation-first, mentor & blog author, open-source contributor
+
+---
+
+## 🧰 RECENT PROJECTS
+
+### 🔹 **Kubernetes Threat Detection Lab** – Open Source
+
+Deployed Falco + custom rules for runtime anomaly detection on EKS. Integrated Slack alerting + Kyverno policy to auto-isolate compromised pods.
+**Tech**: EKS, Kyverno, Falco, Trivy, Prometheus, Loki, Slack Webhooks
+🔗 [github.com/rahul-ambaragonda/k8s-threat-detection-lab](#)
+
+---
+
+### 🔹 **SBOM + Supply Chain Security for GitHub CI**
+
+Built end-to-end secure GitHub Actions pipeline with OIDC, SBOM enforcement (Syft), vulnerability blocking (Grype), and image signing (Cosign).
+**Outcome**: Rejected 9 misconfigured pushes in staging, increased release integrity.
+🔗 [github.com/rahul-ambaragonda/secure-ci-pipeline](#)
+
+---
+
+### 🔹 **Linux Host Hardening + Audit Framework**
+
+Secured EC2 Bastion & node images with `auditd`, PAM rules, `iptables`, CIS Level 1. Enabled sshd multi-factor login + central syslog alerts.
+**Impact**: Reduced unauthorized access attempts by 87%.
+🔗 [github.com/rahul-ambaragonda/linux-audit-lab](#)
+
+---
+
+## 💼 EXPERIENCE
+
+### 🔸 **Bank of America (via Blucom)** — Pittsburgh, PA
+
+**DevSecOps & Platform Engineer** | Aug 2024 – Present
+
+* Secured 5 EKS clusters and 250+ microservices using Kyverno, OPA, External Secrets
+* Integrated Checkov and Trivy into CI/CD pipelines; enforced SBOM and signature validation
+* Designed runtime alerting with Falco + Prometheus + Slack
+* Led Zero Trust implementation using service mesh + Calico network policies
+
+### 🔸 **Blucom Technologies (India)**
+
+**DevOps Engineer** | May 2020 – Jul 2023
+
+* Migrated monolithic Java apps into microservices with Docker Compose → Kubernetes
+* Set up ELK, Grafana, and AlertManager for observability
+* Hardened infra using Terraform with CIS-compliant modules
+* Enforced least privilege IAM + S3 bucket policies
+
+---
+
+## 🎓 EDUCATION
+
+**Master of Information Technology** (Expected 2025)
+University of the Cumberlands – Kentucky, USA
+
+**Bachelor of Science in Computer Science**
+India, 2022
+
+---
+
+## 📜 CERTIFICATIONS
+
+* ✅ Kubernetes Security Specialist (CKS) – in progress
+* ✅ HashiCorp Vault Associate
+* ✅ AWS Certified Security – Specialty (planned Q4 2025)
+* ✅ Terraform Associate
+
+---
+
+## 🧠 COMMUNITY & OPEN SOURCE
+
+* ✍️ Blog Author: [hashnode.com/@rahulambaragonda](https://rahulambaragonda.hashnode.dev)
+* 🌐 Site: [www.azuresimplified.com](http://www.azuresimplified.com) – security walkthroughs, labs
+* 👨‍💻 Contributing to: [Checkov](https://github.com/bridgecrewio/checkov) – Auto-remediation plugin
+* 🎤 Speaker: Pittsburgh DevOps Meetup (Runtime Threat Detection on Kubernetes)
+
+---
+
+### 🚀 LinkedIn Headline Suggestion
+
+> `DevSecOps | Kubernetes Security | SBOM | CI/CD Security | Falco | Platform Engineering | Open to Remote`
+
+---
+
+
 
